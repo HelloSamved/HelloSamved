@@ -5,9 +5,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/samved-jain-79bb60387/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://x.com/hellosamved" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.instagram.com/hell0samved/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -22,11 +30,11 @@
 
 ###
 
-<h3 align="left">Building AI, Mathematics & Full Stack Projects ⚡<br>Exploring Mathematics, Finance & Intelligent Systems<br>Full Stack Developer • AI Enthusiast • Finance Learner<br>Passionate About Mathematics, AI & Quantitative Finance<br>Learning Finance & Building Real-World AI Projects<br>Developer Interested In Mathematics & Financial Technology<br>Building AI Today, Exploring Quant Finance Tomorrow<br>Full Stack Developer With Interests In AI & Quant Finance</h3>
+<h3 align="left">Building AI, Mathematics & Full Stack Projects ⚡<br>Exploring Mathematics, Finance & Intelligent Systems<br>Full Stack Developer • AI Enthusiast • Finance Learner<br>Passionate [...]
 
 ###
 
-<p align="left">I'm Samved Jain from Bhopal<br><br>- I’m currently a student in IISER Kolkata pursuing integrated BS-MS.<br>- I'm currently learning Mathematics and trying to understand more about quant finance<br>- In my free time I talk with Chatgpt</p>
+<p align="left">I'm Samved Jain from Bhopal<br><br>- I'm currently a student in IISER Kolkata pursuing integrated BS-MS.<br>- I'm currently learning Mathematics and trying to understand more about q[...]
 
 ###
 
